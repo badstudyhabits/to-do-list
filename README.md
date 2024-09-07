@@ -10,3 +10,7 @@ https://www.youtube.com/watch?v=jTJvyKZDFsY&list=PLY3v3uJcuKeTG3MSW3Lo3OYym-vbsx
 simple to-do list with the idea of pushing buttons on a keyboard, clicking a mouse, and going bam, to-do-list. i do have to fix the checkmarks so they dont overlap, though, and the spacing... but that'll be fixed later.
 
 feel free to download and modify <3
+
+## original tutorial vid
+
+https://www.youtube.com/watch?v=G0jO8kUrg-I
